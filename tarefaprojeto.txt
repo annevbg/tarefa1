@@ -1,0 +1,5 @@
+1 - planejamento:
+
+2 - desenvolvimento:
+
+3 - teste:
